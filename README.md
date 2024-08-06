@@ -45,9 +45,9 @@
 
  <summary><b>⚙️GitHub Analytics</b></summary>
  <a href="https://github.com/jindalpriyanshu101">
-   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=jindalpriyanshu101&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Priyanshu's github stats" />
-   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=jindalpriyanshu101&theme=radical&hide_border=false" alt="Priyanshu's github stats" /> 
-   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindalpriyanshu101&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Priyanshu's github stats" /> 
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jindalpriyanshu101&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Priyanshu's github stats" />
+   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=jindalpriyanshu101&theme=radical&hide_border=false" alt="Priyanshu's github stats" /> 
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jindalpriyanshu101&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Priyanshu's github stats" /> 
  <br> </a>
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jindalpriyanshu101&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
