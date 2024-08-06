@@ -13,12 +13,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jindalpriyanshu101&label=Profile%20views&color=0e75b6&style=flat" alt="jindalpriyanshu101" /> </p>
 
-🧑‍💻 Currently I’m working on **Enhanced Voice Assistant (E.V.A)** <br>
-🌱 Diving deep into **Java, Web & Android Development** <br>
-👀 I’m interested to collaborate on **Python, AI/ML Projects** <br>
-💬 You can ask me about **Python, Java, AI/ML, PAWN.** <br>
-📫 Reach me at **priyanshujindal101@gmail.com** <br>
+🧑‍💻 Currently I’m working on **Enhanced Voice Assistant (E.V.A)**
 
+🌱 Diving deep into **Java, Web & Android Development** 
+
+👀 I’m interested to collaborate on **Python, AI/ML Projects** 
+
+💬 You can ask me about **Python, Java, AI/ML, PAWN.** 
+
+📫 Reach me at **priyanshujindal101@gmail.com** 
+
+<!-- About me ended -->
  
 <details>	
  <summary><h3>🛠 My Tech Stack</h3></summary><br>
