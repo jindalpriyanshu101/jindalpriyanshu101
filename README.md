@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Programmer from India</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjay-k-v/" target="_blank">LinkedIn</a> - 
+  <a href="https://www.linkedin.com/in/priyanshuaggarwal/" target="_blank">LinkedIn</a> - 
   <a href="https://www.hackerrank.com/priyanshu101/" target="_blank">HackerRank</a> -
   <a href="https://instagram.com/jindalpriyanshu" target="_blank">Instagram</a>
 </p> 
